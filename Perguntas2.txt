@@ -1,0 +1,614 @@
+Genérico
+
+1. Você pode citar algumas das ameaças cibernéticas emergentes?
+
+2. Você pode me orientar sobre a economia da segurança cibernética?
+
+3. Quais partes da segurança da informação as organizações devem terceirizar?
+
+4. De quais conferências de segurança você participou nos últimos 24 meses?
+
+5. Você pode explicar algumas maneiras pelas quais os cibercriminosos estão usando serviços como o LinkedIn?
+
+6. Você pode citar alguns dos principais fornecedores de segurança cibernética? O que eles fazem?
+
+7. O que é segurança da informação e como ela é alcançada?
+
+8. Quais são os princípios fundamentais da segurança da informação?
+
+9. O que é não-repúdio (como se aplica à segurança de TI)?
+
+10. Como CISO, como você justificaria um valor mobiliário gasto para o conselho de administração?
+
+11. Com que frequência a segurança da informação deve ser abordada na sala de reuniões, por quê?
+
+12. Qual é a relação entre segurança da informação e disponibilidade de dados?
+
+13. O que é uma política de segurança e por que precisamos de uma?
+
+14. Qual é a diferença entre segurança lógica e física? você pode dar umexemplo de ambos?
+
+15. Qual é um nível de risco aceitável?
+
+16. Como o Gartner classifica os fornecedores em seu Quadrante Mágico?
+
+17. Quais são os tipos mais comuns de ataques que ameaçam a segurança dos dados corporativos?
+
+18. Qual é a diferença entre uma ameaça e uma vulnerabilidade?
+
+19. Você pode me dar um exemplo de vulnerabilidades de segurança comuns?
+
+20. Você está familiarizado com alguma estrutura de gerenciamento de segurança, como ISO/IEC 27002?
+
+21. O que é um controle de segurança?
+
+22. Quais são os diferentes tipos de controle de segurança?
+
+23. Você pode descrever o ciclo de vida da informação? Como garantir a segurança da informação em cada fase?
+
+24. O que é Governança de Segurança da Informação?
+
+25. Quais são seus valores profissionais? Por que a ética profissional é importante noárea de segurança da informação?
+
+26. O bloqueio geográfico é um controle de segurança válido?
+
+27. Os projetos de código aberto são mais ou menos seguros do que os proprietários?
+
+28. Quem você admira na área de Segurança da Informação? Por que?
+
+29. De onde você obtém suas notícias de segurança?
+
+30. Qual é a diferença entre criptografia simétrica e de chave pública?
+
+31. Que tipo de rede você tem em casa?
+
+32. Quais são as vantagens oferecidas pelos programas de recompensas por bugs em relação aos testes normais?práticas?
+
+33. Quais são suas três primeiras etapas ao proteger um servidor Linux?
+
+34. Quais são suas três primeiras etapas ao proteger um servidor Windows?
+
+35. Quais são suas três primeiras etapas ao proteger um aplicativo da web?
+
+36. Quais são os riscos de segurança dos dispositivos IoT?
+
+37. Quem é mais perigoso para uma organização, pessoas de dentro ou de fora?
+
+38. Por que o monitoramento de DNS é importante?
+
+39. Como o traceroute ajudaria você a descobrir onde está uma falha na comunicação?
+
+40. Por que você deseja usar o SSH de um PC com Windows?
+
+41. Como você descobriria o que significa um código POST?
+
+42. Qual é a diferença entre um chapéu preto e um chapéu branco?
+
+43. O que você acha de sites de redes sociais como Facebook e LinkedIn?
+
+44. Por que as ameaças internas geralmente são mais bem-sucedidas do que as ameaças externas?
+
+45. Por que os dados excluídos não desaparecem de verdade quando você os exclui?
+
+46. O que é a Cadeia de Custódia?
+
+47. Como você removeria permanentemente a ameaça de dados caindo no endereço errado mãos?
+
+48. O que é exfiltração?
+
+49. Como você protege seu ponto de acesso sem fio doméstico?
+
+50. Se você fosse invadir um site baseado em banco de dados, como faria isso?
+
+51. O que é o triângulo da CIA?
+
+52. Qual é a diferença entre proteção de informações e garantia de informações?
+
+53. Como você bloquearia um dispositivo móvel?
+
+54. Como você pode verificar se o aplicativo móvel em seu telefone é seguro?
+
+55. Qual é mais seguro Android ou iOS, por quê?
+
+56. Qual é a diferença entre código fechado e código aberto? Qual é melhor?
+
+57. Qual é a sua opinião sobre grupos hacktivistas como o Anonymous?
+
+58. Como você explicaria a ameaça de deep fakes?
+
+59. Qual é mais seguro, uma senha forte ou autenticação biométrica?
+
+60. Qual é a diferença entre deep web e dark web?
+
+61. Por que o ransomware não afeta os dispositivos móveis?
+
+62. O que é MITRE ATTACK?
+
+63. O CISO deve se reportar ao CIO ou CEO e por quê?
+
+64. O que é dispositivo de abacaxi?
+
+65. O que é Torta de Framboesa?
+
+66. O que é Kubernetes?
+
+67. Qual é o papel da IA e do aprendizado de máquina na segurança da informação?
+
+68. Qual aplicativo você usaria para se comunicar com segurança entre dispositivos móveis?
+
+69. O que faz o proxy?
+
+70. Você pode explicar o ataque man-in-the-middle?
+
+71. Qual é a metodologia de autenticação mais segura, por quê?
+
+72. Por que as equipes de TI e segurança não gostam de agentes?
+
+73. Você pode citar algumas brechas de segurança recentes?
+
+74. O que é GDPR e isso afeta você?
+
+75. Qual o papel da automação na segurança da informação?
+
+76. Qual a diferença entre SIEM e UEBA?
+
+77. Pode me dar um exemplo de ataque à cadeia de suprimentos?
+
+78. Você pode definir o que é APT?
+
+79. Por que as seguradoras estão pagando as demandas do ransomware?
+
+80. Quais são os 3 principais países na guerra de informação?
+
+81. Você pode explicar algumas maneiras pelas quais os invasores estão usando IA?
+
+82. Por que os prêmios de seguro cibernético estão aumentando?
+
+segurança na nuvem
+
+83. Por que tantos S3 Buckets são violados?
+
+84. O que significa o modelo de responsabilidade compartilhada na nuvem?
+
+85. Qual é a vantagem da API sobre o proxy de encaminhamento?
+
+86. Como você protegeria o tráfego Leste-Oeste na nuvem?
+
+87. Como você protegeria o tráfego entre os serviços em nuvem?
+
+88. Quem é responsável por proteger os dados e usuários ao usar serviços SaaS ou IaaS?
+
+89. Por que os contêineres são vulneráveis?
+
+90. Quais são alguns dos riscos de segurança para a organização ao usar o Slack ou Equipes da Microsoft?
+
+91. Por que leva tanto tempo para as organizações moverem suas cargas de trabalho para a nuvem?
+
+92. Você pode citar as vantagens dos bancos de dados baseados em nuvem?
+
+93. Você pode citar algumas ferramentas de software de segurança que podem ajudá-lo a monitorar a nuvem ambientes?
+
+94. O que levar em consideração ao usar nuvem pública em vez de privado?
+
+95. O que é CASB?
+
+Segurança de rede
+
+96. Em qual porta o ping funciona?
+
+97. Você prefere portas filtradas ou portas fechadas em seu firewall?
+
+98. Como funciona exatamente o traceroute/tracert no nível do protocolo?
+
+99. Quais são os pontos fortes e fracos do Linux em relação ao Windows?
+
+100. O que é um firewall? E forneça um exemplo de como um firewall pode ser contornado por um estranho para acessar a rede corporativa.
+
+101. Além dos firewalls, quais outros dispositivos são usados para reforçar a rede limites?
+
+102. Qual é o papel dos limites de rede na segurança da informação?
+
+103. O que faz um sistema de detecção de intrusão? Como ele faz isso?
+
+104. O que é um honeypot? De que tipo de ataque ele se defende?
+
+105. Quais tecnologias e abordagens são usadas para proteger informações e serviços implantados na infraestrutura de computação em nuvem?
+
+106. Quais desafios de segurança da informação são enfrentados em uma computação em nuvem ambiente?
+
+107. Você pode me dar uma visão geral do IP multicast?
+
+108. Quantos bits você precisa para um tamanho de sub-rede?
+
+109. O que é filtragem de pacotes?
+
+110. Você pode explicar a diferença entre um firewall de filtragem de pacotes e um firewall da camada de aplicação?
+
+111. Quais são as camadas do modelo OSI?
+
+112. Como você faria login no Active Directory a partir de um Linux ou Mac?
+
+113. Qual é uma maneira fácil de configurar uma rede para permitir que apenas um único computador fazer login em um determinado jack?
+
+114. Quais são as três formas de autenticar uma pessoa?
+
+115. Você descobre que há um problema ativo em sua rede. Você pode consertar, mas está fora de sua jurisdição. O que você faz?
+
+116. Como você comprometeria uma “estação de trabalho” em um hotel?
+
+117. O que é pior na detecção de firewall, um falso negativo ou um falso positivo? E por que?
+
+118. Como você julgaria se um servidor remoto está executando IIS ou Apache?
+
+119. Qual a diferença entre um HIDS e um NIDS?
+
+120. Por que é tão difícil monitorar o tráfego na nuvem da rede?
+
+121. O que é SD-WAN?
+
+Segurança do aplicativo
+
+122. O que é pipeline de CI/CD?
+
+123. Vulnerabilidades representam 50% das descobertas de testes de segurança de aplicativos, o que éa outra metade?
+
+124. Você pode explicar o que é erro de lógica de negócios e o que isso tem a ver com a segurança do aplicativo?
+
+125. Descreva o último programa ou script que você escreveu. Que problema deu resolver?
+
+126. Você pode discutir brevemente o papel da segurança da informação em cada fase do ciclo de vida de desenvolvimento de software?
+
+127. Como você implementaria um campo de login seguro em um site de alto tráfego onde o desempenho é uma consideração?
+
+128. Quais são as várias maneiras de lidar com força bruta de conta?
+
+129. O que é falsificação de solicitação entre sites?
+
+130. Você pode explicar o desafio de segurança de aplicativos mais difícil que você já trabalhou? com e como você superou isso?
+
+131. Como se defender contra CSRF?
+
+132. Se você fosse um administrador de site procurando por ataques CSRF recebidos, o que você procuraria?
+
+133. Qual é a diferença entre HTTP e HTML?
+
+134. Como o HTTP lida com o estado?
+
+135. O que exatamente é cross-site scripting?
+
+136. Qual é a diferença entre XSS armazenado e refletido?
+
+137. Quais são as defesas comuns contra o XSS?
+
+138. Você está remoto em um sistema sem cabeça em uma área remota. Você não tem acesso físico ao hardware e você precisa executar uma instalação do sistema operacional. O que você faz?
+
+139. Em uma rede Windows, por que é mais fácil invadir uma conta local do que uma conta AD?
+
+140. O que significa enumeração de usuários?
+
+141. Você pode explicar o top 10 do OWASP?
+
+142. Como você protegeria um banco de dados?
+
+143. Quais são as defesas comuns contra injeção de SQL?
+
+144. Como vejo a injeção SQL ofuscada em texto não criptografado?
+
+145. Como você protegeria o acesso local ao banco de dados? arquiteto de segurança
+
+146. Explique o vazamento de dados e dê exemplos de algumas das causas principais.
+
+147. Quais são algumas maneiras eficazes de controlar o vazamento de dados?
+
+148. Descreva as regras 80/20 do networking.
+
+149. O que são vulnerabilidades do servidor web e cite alguns métodos para prevenir ataques ao servidor?
+
+150. Quais são os tipos de malware mais prejudiciais?
+
+151. Qual é o seu método preferido de dar aos funcionários remotos acesso ao
+rede da empresa e existem pontos fracos associados a ela?
+
+152. Liste alguns testes que você faria em uma rede para identificar a segurança imperfeições.
+
+153. Que tipo de sites e serviços em nuvem você bloquearia?
+
+154. Que tipo de falha de segurança existe na VPN?
+
+155. O que é um ataque DDoS?
+
+156. Você pode descrever o papel das operações de segurança na empresa?
+
+157. O que é arquitetura de segurança em camadas? É uma boa abordagem? Por que?
+
+158. Você projetou medidas de segurança que abrangem informações sobrepostas domínios? Você pode me dar uma breve visão geral da solução?
+
+159. Como você garante que um projeto antecipa o erro humano?
+
+160. Como você garante que um projeto atinja a conformidade regulatória?
+
+161. O que é segurança baseada em capacidade? Você incorporou esse padrão em seus desenhos? Como?
+
+162. Você pode me dar alguns exemplos de requisitos de arquitetura de segurança?
+
+163. Quem normalmente possui os requisitos de arquitetura de segurança e o que as partes interessadas contribuem?
+
+164. Que desafios especiais de segurança o SOA apresenta?
+
+165. Quais são os desafios de segurança apresentados pelas comunicações unificadas?
+
+166. Você adota uma abordagem diferente para arquitetura de segurança para um COTS versus um solução personalizada?
+
+167. Você projetou uma solução de segurança que envolveu componentes SaaS? Que desafios você enfrentou?
+
+168. Você já trabalhou em um projeto no qual as partes interessadas optam por aceitar identificou riscos de segurança que o preocuparam? Como você lidou com a situação?
+
+169. Você vê um usuário logando como root para executar funções básicas. Isso é um problema?
+
+170. O que é proteção de dados em trânsito versus proteção de dados em repouso?
+
+171. Você precisa redefinir uma configuração de BIOS protegida por senha. O que você faz fazer?
+
+Gerenciamento de riscos
+
+172. Existe um nível aceitável de risco?
+
+173. É uma boa ideia pagar o resgate quando seus dados foram criptografados por um ransomware?
+
+174. Qual é o padrão de segurança mais abrangente para gerenciar riscos?
+
+175. Como você mede o risco? Você pode dar um exemplo de uma métrica específica que mede o risco de segurança da informação?
+
+176. Você pode me dar um exemplo de compensações de risco (por exemplo, risco x custo)?
+
+177. O que é gerenciamento de incidentes?
+
+178. O que é gerenciamento de continuidade de negócios? Como isso se relaciona com a segurança?
+
+179. Qual é a principal razão pela qual a maioria das empresas não corrigiu seus vulnerabilidades?
+
+180. Qual é o objetivo da segurança da informação dentro de uma organização?
+
+181. Qual é a diferença entre ameaça, vulnerabilidade e risco?
+
+182. Se você fosse começar um trabalho como engenheiro-chefe ou CSO em uma empresa Fortune 500 devido ao cara anterior ter sido demitido por incompetência, quais seriam suas prioridades ser? [Imagine que você começa no primeiro dia sem nenhum conhecimento do ambiente]
+
+183. Como profissional de segurança da informação corporativa, o que é mais importante para foco em: ameaças ou vulnerabilidades?
+
+184. Se estou no meu laptop, aqui dentro da minha empresa, e acabei de conectar meu cabo de rede. Quantos pacotes devem deixar minha NIC para completar um traceroute para twitter.com?
+
+185. Como você construiria a botnet definitiva?
+
+186. Quais são as principais falhas de design do HTTP e como você o melhoraria?
+
+187. Se você pudesse redesenhar o TCP, o que você consertaria?
+
+188. Qual é o único recurso que você adicionaria ao DNS para melhorá-lo ao máximo?
+
+189. Qual é o provável protocolo primário usado para a Internet das Coisas em 10 anos?
+
+190. Se você tivesse que eliminar uma camada do modelo OSI, qual seria?
+
+191. O que é risco residual?
+
+192. Qual é a diferença entre uma vulnerabilidade e um exploit?
+
+193. Qual é o papel da conscientização cibernética na segurança da informação?
+
+194. O que é um exercício de mesa?
+
+195. Você pode explicar a modelagem de ameaças?
+
+196. Por que os incidentes relativos a insiders são mais caros?
+
+Auditorias de segurança, testes e resposta a incidentes
+
+197. Qual é o principal driver para auditorias de segurança e testes de penetração?
+
+198. Você pode explicar como é um ótimo processo de definição de escopo?
+
+199. O que é uma auditoria de segurança de TI?
+
+200. Qual é a principal razão pela qual as organizações não consertam o teste de penetração descobertas?
+
+201. Qual é a diferença entre descoberta de vulnerabilidade alta e crítica?
+
+202. O que é um RFC?
+
+203. Qual é o seu exploit favorito?
+
+204. Que tipo de sistemas devem ser auditados?
+
+205. Como você contornaria o AV?
+
+206. Por que as funções são importantes ao testar APIs?
+
+207. Qual é a diferença entre testar aplicativos móveis e da web?
+
+208. Qual é a diferença entre testar um aplicativo da Web e uma API?
+
+209. Você já trabalhou em um ambiente virtualizado?
+
+210. Qual é a parte mais difícil da auditoria para você?
+
+211. Descreva o procedimento de auditoria mais difícil que você implementou.
+
+212. O que é gerenciamento de mudanças?
+
+213. Quais foram algumas das descobertas em uma das últimas vezes que você testou um plano de resposta a incidentes?
+
+214. Que tipos de RFC ou software de gerenciamento de mudanças você usou?
+
+215. O que você faz se um lançamento der errado?
+
+216. Como você gerencia os principais incidentes do sistema?
+
+217. Como você pede aos desenvolvedores que documentem as mudanças?
+
+218. Como você compara arquivos que podem ter mudado desde a última vez que você olhou para eles?
+
+219. Você pode explicar os três tipos de revisão de rede?
+
+220. Como você conduziria uma auditoria de senha?
+
+221. Cite alguns tipos de brechas de segurança.
+
+222. Qual é um método comum de interromper sistemas corporativos?
+
+223. Quais são algumas ferramentas de software de segurança que você pode usar para monitorar a rede?
+
+224. O que você deve fazer depois de suspeitar que uma rede foi invadida?
+
+225. Como você pode criptografar e-mail para proteger as transmissões sobre a empresa?
+
+226. Qual documento descreve as etapas para criar uma rede que teve um grande interrupção?
+
+227. Como você pode garantir que os backups sejam seguros?
+
+228. O que você pensa sobre testes de penetração automatizados?
+
+229. Qual é uma maneira de fazer um hack cross-script?
+
+230. Como você pode evitar hacks de script cruzado?
+
+231. Como você testa a segurança da informação?
+
+232. Qual é a diferença entre testes de penetração de caixa preta e caixa branca?
+
+233. O que é uma verificação de vulnerabilidade?
+
+234. No pentest o que é melhor, um time vermelho ou um time azul?
+
+235. Por que você contrataria um contratado externo para realizar um teste de penetração?
+
+236. O que o PCI-DSS diz sobre o teste de penetração?
+
+237. Como você entregaria um teste de segurança de engenharia social?
+
+238. Por que o plano de resposta a incidentes é importante?
+
+239. Como você testa a segurança de serviços em nuvem como Salesforce ou Amazon? AWS?
+
+240. Quais são os três primeiros passos ao responder a um ataque de ransomware?
+
+241. O que lockpicking tem a ver com testes de segurança?
+
+242. Como você testaria um caixa eletrônico ou parquímetro inteligente?
+
+243. Quais são as maiores recompensas que você ganhou?
+
+244. Você pode citar algumas ferramentas de EDR?
+
+245. Qual é a sua ferramenta ou dispositivo de teste de segurança física favorito?
+
+246. Qual seria o tópico do e-mail de phishing se você o enviasse hoje?
+
+247. Em que estágio você costuma se envolver com os desenvolvedores?
+
+248. Em que estágio do ciclo de vida do desenvolvimento você deve fazer o teste de segurança?
+
+249. Qual é a diferença entre auditoria de segurança e teste de penetração?
+
+250. Você pode explicar o maior desafio ao fazer um teste de segurança e como você superou isso?
+
+251. Você conseguiu hackear o termômetro inteligente no cassino, como você faria fazer o seu caminho para o banco de dados de grandes apostadores e voltar?
+
+252. Por que a Tesla está pagando milhões de dólares por bugs/vulnerabilidades?
+
+Criptografia
+
+253. O que é criptografia de chave secreta?
+
+254. O que é criptografia de chave pública?
+
+255. O que é uma chave de sessão?
+
+256. O que é RSA?
+
+257. Qual é a velocidade do RSA?
+
+258. O que seria necessário para quebrar o RSA?
+
+259. Os primos fortes são necessários para o RSA?
+
+260. Qual o tamanho de um módulo (chave) deve ser usado no RSA?
+
+261. Qual deve ser o tamanho dos primos?
+
+262. Como o RSA é usado para autenticação na prática? O que são RSA digitais assinaturas?
+
+263. Quais são as alternativas ao RSA?
+
+264. O RSA está em uso atualmente?
+
+265. O que são DSS e DSA?
+
+266. Qual é a diferença entre DSA e RSA?
+
+267. O DSA é seguro?
+
+268. O que são regimes especiais de assinatura?
+
+269. O que é um esquema de assinatura cega?
+
+270. O que é um verificador de assinaturas designado?
+
+271. O que é um esquema de assinatura fail-stop?
+
+272. O que é uma assinatura de grupo?
+
+273. O que é baiacu?
+
+274. O que é SAFER?
+
+275. O que é FEAL?
+
+276. O que é Shipjack?
+
+277. O que é cifra de fluxo?
+
+278. Qual é a vantagem da criptografia de chave pública sobre a chave secreta criptografia?
+
+279. Qual é a vantagem da criptografia de chave secreta sobre a criptografia de chave pública? criptografia?
+
+280. O que é Código de Autenticação de Mensagem (MAC)?
+
+281. O que é uma cifra de bloco?
+
+282. Quais são os diferentes modos de operação da cifra de bloco?
+
+283. O que é uma cifra de fluxo? Cite uma cifra de fluxo mais amplamente usada.
+
+284. O que é função hash unidirecional?
+
+285. O que é colisão quando falamos de funções hash?
+
+286. Quais são as aplicações de uma função hash?
+
+287. O que é função alçapão?
+
+288. Criptograficamente falando, qual é o principal método de construção de um segredo através de um meio público?
+
+289. Qual é a diferença entre Diffie-Hellman e RSA?
+
+290. A que tipo de ataque uma troca Diffie-Hellman padrão é vulnerável?
+
+291. Qual é a diferença entre codificação, criptografia e hash?
+
+292. Na criptografia de chave pública, você tem uma chave pública e uma chave privada e geralmente executar as funções de criptografia e assinatura. Qual chave é usada para qual função?
+
+293. Qual é a diferença entre criptografia simétrica e assimétrica?
+
+294. Se você tivesse que criptografar e compactar dados durante a transmissão, o que você faria primeiro, e por quê?
+
+295. O que é SSL e por que não é suficiente quando se trata de criptografia?
+
+296. O que é a salga e para que serve?
+
+297. O que são hashes salgados?
+
+298. O que é o aperto de mão de três vias? Como pode ser usado para criar um DOS ataque?
+
+299. O que é mais seguro, SSL ou HTTPS?
+
+300. Você pode descrever tabelas arco-íris?
