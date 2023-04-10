@@ -585,7 +585,7 @@ Criptografia
 
 286. Quais são as aplicações de uma função hash?
 
-287. O que é função alçapão?
+287. O que é função alçapão (trap) ?
 
 288. Criptograficamente falando, qual é o principal método de construção de um segredo através de um meio público?
 
