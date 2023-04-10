@@ -603,12 +603,12 @@ Criptografia
 
 295. O que é SSL e por que não é suficiente quando se trata de criptografia?
 
-296. O que é a salga e para que serve?
+296. O que é a Salt e para que serve?
 
-297. O que são hashes salgados?
+297. O que são hashes Salt?
 
 298. O que é o aperto de mão de três vias? Como pode ser usado para criar um DOS ataque?
 
 299. O que é mais seguro, SSL ou HTTPS?
 
-300. Você pode descrever tabelas arco-íris?
+300. Você pode descrever tabelas arco-íris (rainbow tables)?
