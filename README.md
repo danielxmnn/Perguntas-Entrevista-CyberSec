@@ -52,7 +52,7 @@ O que é uma auditoria de segurança de TI?
 
 Como você testa a segurança da informação?
 
-Qual é a diferença entre testes de penetração de caixa preta, caixa cinza e caixa branca?
+Qual é a diferença entre testes de penetração de caixa preta, caixa cinza e caixa branca (Black Box, Gray Box, White Box)?
 
 O que é uma verificação de vulnerabilidade?
 
@@ -67,7 +67,7 @@ Que tipos de informações podem ser usadas para autenticação?
 
 O que é controle de acesso baseado em função?
 
-O que significa o termo "menor privilégio"?
+O que significa o termo "menor privilégio" (least privilege)?
 
 O que é a autenticação de dois fatores? Requer hardware especial?
 ________________________________________________________________________________________________________________
@@ -147,7 +147,7 @@ O que é gerenciamento de nível de segurança?
 
 Como você garante que o gerenciamento de segurança seja transparente e mensurável?
 
-Você pode descrever as responsabilidades típicas de um Chief Security Officer (CSO)?
+Você pode descrever as responsabilidades típicas de um CSO e um CISO?
 
 Você pode me dar um exemplo de algumas tendências emergentes em segurança da informação que você está acompanhando?
 _____________________________________________________________________________________________________________
@@ -205,7 +205,7 @@ Você pode me dar um exemplo de script cross-site?
 
 O que é injeção de SQL? Como é prevenido?
 
-O que é um estouro de buffer?
+O que é um estouro de buffer (Buffer-Overflow)?
 
 O que é clickjacking?
 _____________________________________________________________________________________________________________
