@@ -1,5 +1,7 @@
 # Perguntas-Entrevista-CyberSec
-#aqruivo Genericas.txt contém mais perguntas#
+
+Perguntas para uma entrevista sobre áreas relacionadas a Cyber Segurança, Segurança da informação, Pentester, DevSecOps, Etc
+(aqruivo Genericas.txt contém mais perguntas)
 
 ## Conceitos Básicos
 
