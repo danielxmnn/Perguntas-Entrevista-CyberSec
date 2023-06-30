@@ -1,5 +1,9 @@
 # Perguntas-Entrevista-CyberSec
 
+
+![image](https://github.com/danielxmnn/Perguntas-Entrevista-CyberSec/assets/58004682/b1389c0f-8781-4011-8116-9d051543495a)
+
+
 Perguntas para uma entrevista sobre áreas relacionadas a Cyber Segurança, Segurança da informação, Pentester, DevSecOps, Etc
 
 (aqruivo Genericas.txt contém mais perguntas)
