@@ -251,12 +251,13 @@ Descreva um desafio de segurança que você enfrentou em um projeto anterior e c
 
 Como você acompanha as tendências e avanços na área de segurança em um ambiente DevSecOps?
 
+O que é SAST, DAST, SCA?
+
+Liste mudanças urgentes em um código.
 _____________________________________________________________________________________________________________
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-O que é SAST, DAST, SCA?
 
-Liste mudanças urgentes em um código.
 _____________________________________________________________________________________________________________
