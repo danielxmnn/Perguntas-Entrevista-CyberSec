@@ -612,3 +612,8 @@ Criptografia
 299. O que é mais seguro, SSL ou HTTPS?
 
 300. Você pode descrever tabelas arco-íris (rainbow tables)?
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
