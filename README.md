@@ -1,5 +1,5 @@
 ## Perguntas-Entrevista-CyberSec
-
+#aqruivo Genericas.txt contém mais perguntas#
 #Conceitos Básicos
 
 O que é segurança da informação e como ela é alcançada?
