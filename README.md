@@ -228,7 +228,29 @@ Você pode me dar alguns exemplos de integração de segurança física?
 O que é engenharia social? Quão comum é?
 
 Como você protegeria um ambiente de escritório? E quanto a um centro de dados?
+_____________________________________________________________________________________________________________
+#DevSecOps
+Como você define DevSecOps e qual é o seu papel nessa metodologia?
 
+Quais são as principais diferenças entre DevOps e DevSecOps?
 
+Como você garante a segurança de uma aplicação em um ambiente DevSecOps?
 
+Quais são as principais ameaças à segurança em um ambiente DevSecOps e como você lida com elas?
+
+Quais são as melhores práticas para integrar a segurança desde o início do ciclo de vida de desenvolvimento de software?
+
+Como você lida com a conformidade e regulamentações de segurança em um ambiente DevSecOps?
+
+Quais ferramentas e tecnologias você utilizaria para garantir a segurança contínua em um pipeline de desenvolvimento?
+
+Como você trabalha em colaboração com equipes de desenvolvimento e operações para garantir a segurança em todas as etapas do ciclo de vida do software?
+
+Descreva um desafio de segurança que você enfrentou em um projeto anterior e como você o resolveu.
+
+Como você acompanha as tendências e avanços na área de segurança em um ambiente DevSecOps?
+
+O que é SAST, DAST, SCA?
+
+Liste mudanças urgentes em um código.
 _____________________________________________________________________________________________________________
