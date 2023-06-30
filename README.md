@@ -1,5 +1,6 @@
 ## Perguntas-Entrevista-CyberSec
 #aqruivo Genericas.txt contém mais perguntas#
+
 #Conceitos Básicos
 
 O que é segurança da informação e como ela é alcançada?
@@ -249,6 +250,11 @@ Como você trabalha em colaboração com equipes de desenvolvimento e operaçõe
 Descreva um desafio de segurança que você enfrentou em um projeto anterior e como você o resolveu.
 
 Como você acompanha as tendências e avanços na área de segurança em um ambiente DevSecOps?
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 O que é SAST, DAST, SCA?
 
