@@ -1,7 +1,7 @@
-## Perguntas-Entrevista-CyberSec
+# Perguntas-Entrevista-CyberSec
 #aqruivo Genericas.txt contém mais perguntas#
 
-#Conceitos Básicos
+## Conceitos Básicos
 
 O que é segurança da informação e como ela é alcançada?
 
@@ -29,7 +29,7 @@ Você pode me dar um exemplo de vulnerabilidades de segurança comuns?
 
 Você pode discutir brevemente o papel da segurança da informação em cada fase do ciclo de vida do desenvolvimento de software?
 ________________________________________________________________________________________________________________
-#Levantamento de requisitos
+## Levantamento de requisitos
 
 Você pode descrever o papel das operações de segurança na empresa?
 
@@ -47,7 +47,7 @@ O que é Governança de Segurança da Informação?
 
 Quais são seus valores profissionais? Por que a ética profissional é importante na área de segurança da informação?
 ________________________________________________________________________________________________________________
-#Auditorias e testes de segurança
+## Auditorias e testes de segurança
 
 O que é uma auditoria de segurança de TI?
 
@@ -60,7 +60,7 @@ O que é uma verificação de vulnerabilidade?
 O que é capturado em um plano de avaliação de segurança (plano de teste de segurança)?
 
 ________________________________________________________________________________________________________________
-#Controle de acesso
+## Controle de acesso
 
 Qual é a diferença entre autenticação e autorização?
 
@@ -72,7 +72,7 @@ O que significa o termo "menor privilégio" (least privilege)?
 
 O que é a autenticação de dois fatores? Requer hardware especial?
 ________________________________________________________________________________________________________________
-#Arquitetura de segurança
+## Arquitetura de segurança
 
 Por que os padrões abertos são importantes para as soluções de segurança?
 
@@ -102,7 +102,7 @@ Você projetou uma solução de segurança que envolveu componentes SaaS? Que de
 
 Você já trabalhou em um projeto no qual as partes interessadas optam por aceitar os riscos de segurança identificados que o preocupam? Como você lidou com a situação?
 ________________________________________________________________________________________________________________
-#Rede
+## Rede
 
 O que é um firewall?
 
@@ -152,7 +152,7 @@ Você pode descrever as responsabilidades típicas de um CSO e um CISO?
 
 Você pode me dar um exemplo de algumas tendências emergentes em segurança da informação que você está acompanhando?
 _____________________________________________________________________________________________________________
-#Experiência
+## Experiência
 
 Você desenvolveu um plano de resposta a incidentes?
 
@@ -170,7 +170,7 @@ Você pode me dar um exemplo de uma ocasião em que identificou e implementou co
 
 Como você se mantém atualizado com a tecnologia? Por exemplo, como você acompanha as novas ameaças à segurança da informação?
 _____________________________________________________________________________________________________________
-#Criptografia
+## Criptografia
 
 Como funciona o protocolo SSL?
 
@@ -188,7 +188,7 @@ Você pode me dar uma visão geral do IPsec? Qual é seu propósito?
 
 O IPsec substitui a necessidade de SSL?
 _____________________________________________________________________________________________________________
-#Gerenciamento de Incidentes de Segurança
+## Gerenciamento de Incidentes de Segurança
 
 Quais são os componentes do gerenciamento de incidentes ITIL?
 
@@ -196,7 +196,7 @@ Se nossa organização passou por um grande incidente de segurança, que medidas
 
 Você pode descrever as responsabilidades de um gerente de incidentes?
 _____________________________________________________________________________________________________________
-#Ameaças
+## Ameaças
 
 Na sua opinião, quais são as cinco principais ameaças à segurança da informação enfrentadas por uma organização como a nossa?
 
@@ -210,7 +210,7 @@ O que é um estouro de buffer (Buffer-Overflow)?
 
 O que é clickjacking?
 _____________________________________________________________________________________________________________
-#Vulnerabilidades
+## Vulnerabilidades
 
 O que é uma referência de objeto direto insegura? Por que isso é um problema?
 
@@ -222,7 +222,7 @@ Quais são algumas vulnerabilidades de segurança comuns no nível de transporte
 
 Como o tratamento inadequado de erros pode expor vulnerabilidades de segurança? Como?
 _____________________________________________________________________________________________________________
-#Integração de segurança física
+## Integração de segurança física
 
 Você pode me dar alguns exemplos de integração de segurança física?
 
@@ -230,7 +230,7 @@ O que é engenharia social? Quão comum é?
 
 Como você protegeria um ambiente de escritório? E quanto a um centro de dados?
 _____________________________________________________________________________________________________________
-#DevSecOps
+## DevSecOps
 Como você define DevSecOps e qual é o seu papel nessa metodologia?
 
 Quais são as principais diferenças entre DevOps e DevSecOps?
@@ -251,7 +251,7 @@ Descreva um desafio de segurança que você enfrentou em um projeto anterior e c
 
 Como você acompanha as tendências e avanços na área de segurança em um ambiente DevSecOps?
 
-
+_____________________________________________________________________________________________________________
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
